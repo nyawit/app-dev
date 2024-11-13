@@ -2,6 +2,7 @@
 My first repository
 
 # Pulang Araw
+![480_360_640x480_-20240930131116](https://github.com/user-attachments/assets/7b15c9f0-fb4b-488c-aa34-3433cd74dfda)
 
 **Pulang Araw** is a powerful and evocative film that explores themes of resilience, identity, and survival. Set in the lush yet turbulent landscapes of Southeast Asia, this movie takes its audience on an emotional journey.
 
